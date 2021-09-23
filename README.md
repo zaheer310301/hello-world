@@ -1,2 +1,3 @@
 # hello-world
-Learning about repository
+Learning about repository.
+Just finished learning about repository.
